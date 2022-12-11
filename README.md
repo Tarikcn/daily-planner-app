@@ -34,6 +34,13 @@ A simple calendar application that allows a user to save events for each hour of
 - https://tarikcn.github.io/daily-planner-app/
 
 ### Screenshots :
+![image](https://user-images.githubusercontent.com/115656280/206906534-96e01402-dd99-4cbd-9b35-bedcc9a984fb.png)
+
+Alert message:
+
+![image](https://user-images.githubusercontent.com/115656280/206906575-13741b31-5721-4919-af20-e220d5044f37.png)
+
+
 
 #### License
 
